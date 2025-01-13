@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Between Books</title>
+    <link href="https://fonts.googleapis.com/css2?family=Gaegu&family=Balsamiq+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Between Books</h1>
+            <!-- Space for the image under the title -->
+            <div class="header-image">
+                <img src="path-to-your-image.jpg" alt="Blog Image" class="centered-image">
+            </div>
+            <p>A blog about books and navigating my 20s</p>
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+
+        <main>
+            <div class="blog-posts">
+                <!-- Example blog post -->
+                <article>
+                    <h2>Blog Post Title</h2>
+                    <p>Welcome to my first post! Here, I will talk about my journey through books and life.</p>
+                    <a href="#">Read more...</a>
+                </article>
+                <!-- Additional blog posts can be added here -->
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 Between Books | All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
